@@ -1,5 +1,5 @@
 # FlashingLights
-Scripts for a Unity game project. 
+Scripts for a Unity project. 
 While this particular project isn't going to become a game, it is a staging area for me exploring neat logic to be used later in an actual game. 
 You can poke around the scripts here if you'd like.
 
